@@ -7,4 +7,4 @@ Uses the following packages:
 speech_recognition,
 ChatBot,
 ChatterBotCorpusTrainer,
-pyttsx3,
+pyttsx3.
